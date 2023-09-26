@@ -1,6 +1,6 @@
 # bloc_tutorial
 
-A new Flutter project using bloc.
+A new Flutter project using bloc. Create 3 flavors: development, staging and production with 3 different app icons.
 
 ## Getting Started
 
